@@ -1,5 +1,9 @@
 # MibiPlot
 Make plots in a console. Tested with python 2.7 (should work with python 3).
+
+---
+
+I will add other types of plots soon.
 ## Getting Started
 ### Buid a new plot
 `plot = Plot(type = str, values = list, labels = list, height = None (int), width = None (int))`
