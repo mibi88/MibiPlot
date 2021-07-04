@@ -2,6 +2,7 @@
 ## MibiPlot                        ##
 ## by mibi88                       ##
 ## Make plots in a console         ##
+## Version : v.0.1                 ##
 ## License : GNU GPL v2            ##
 #####################################
 
